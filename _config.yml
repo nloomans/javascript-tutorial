@@ -2,7 +2,7 @@ title: Javascript Tutorial
 description: A javascript tutorial written by Noah Loomans
 
 url: http://brianmaierjr.github.com/long-haul
-baseurl: ""
+baseurl: "/javascript-tutorial"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
