@@ -1,5 +1,5 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Javascript Tutorial
+description: A javascript tutorial written by Noah Loomans
 
 url: http://brianmaierjr.github.com/long-haul
 baseurl: ""
@@ -11,18 +11,12 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
 
-navigation:
- - title: Home
-   url: /index.html
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
+# navigation:
+#  - title: Home
+#    url: /index.html
+#  - title: About
+#    url: /about
+#  - title: Contact
+#    url: /contact
 
-social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
-
-google_analytics: "UA-58263416-1"
+# google_analytics: "UA-58263416-1"
